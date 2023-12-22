@@ -26,9 +26,15 @@ pictorial information.
 ➢ Convolution.
 <br>
 ➢ Blurring- "MeanFilter, WeightFilter".
+<br>
 ➢ Edge Detection-"PointDetection, HorizontalDetection, VerticalDetection, DiagonalLeftDetection, DiagonalRightDetection".
+<br>
 ➢ Sharpening- "PointSharpening, HorizontalSharpening, VerticalSharpening, DiagonalLeftSharpening, DiagonalRightSharpening".
-➢ Fourier transfrom, Inverse fourier transform
+<br>
+➢ Fourier transfrom, Inverse fourier transform.
+<br>
 ➢ frequency domain filters- "Ideal low pass filter, Gaussian low pass filter, Butterworth low pass filter, Ideal high pass filter, Gaussian high pass filter, Butterworth high pass filter".
+<br>
 ➢ Salt&Pepper, Uniform, Gaussian noise. 
+<br>
 ➢ order filters- "min, max, median and midpoint".
