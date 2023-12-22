@@ -7,16 +7,24 @@
 ➢ Improvement of pictorial information for human interpretation.
 <br>
 ➢ Processing of image data for tasks such as storage, transmission, and extraction of
-<br>
 pictorial information.
-#project Apply these Processing: 
+<br>
+# project Apply these Processing: 
+<br>
 ➢ Rgb2gray
+<br>
 ➢ Rgb2binary
+<br>
 ➢ gray2binary
+<br>
 ➢ point processing- "brightness, negative, contrast".
-➢ point processing - gamma correction
-➢ histogram, histogram equalization
-➢ Convolution
+<br>
+➢ point processing - gamma correction.
+<br>
+➢ histogram, histogram equalization.
+<br>
+➢ Convolution.
+<br>
 ➢ Blurring- "MeanFilter, WeightFilter".
 ➢ Edge Detection-"PointDetection, HorizontalDetection, VerticalDetection, DiagonalLeftDetection, DiagonalRightDetection".
 ➢ Sharpening- "PointSharpening, HorizontalSharpening, VerticalSharpening, DiagonalLeftSharpening, DiagonalRightSharpening".
