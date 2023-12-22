@@ -2,14 +2,14 @@
 <br>
 ➢ refers to processing digital images by means of a digital computer.
 <br>
-# Digital image processing focus on two major tasks:
+<b>Digital image processing focus on two major tasks:</b>
 <br>
 ➢ Improvement of pictorial information for human interpretation.
 <br>
 ➢ Processing of image data for tasks such as storage, transmission, and extraction of
 pictorial information.
 <br>
-# project Apply these Processing: 
+<b>project Apply these Processing:</b>
 <br>
 ➢ Rgb2gray
 <br>
